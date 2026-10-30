@@ -6,6 +6,14 @@
     "type": "git",
     "url": "git+https://github.com/jarek-foksa/xel.git"
   },
+  "files": [
+    "xel.js",
+    "runtime.js",
+    "elements/",
+    "utils/",
+    "iconsets/",
+    "themes/"
+  ],
   "keywords": [
     "material",
     "design",
